@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Keviny José
 - 👀 I’m interested in working with programming, as an intern.
 - 🌱 I’m currently learning python, banco de dados.
-- 💞️ I’m looking to collaborate on ...
+- 💞️
 - 📫 How to reach me gmal> kevinyjoseclementedossnatossil@gmail.com
 
 <!---
